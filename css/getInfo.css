@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 260px;
+    font-family: "微软雅黑" !important;
+}
+
+div {
+    font-size: 14px;
+}
+#getId {
+	/*margin: 5px;*/
+	float: right;
+}
+#statusarea {
+	text-align: center;
+	font-weight: 600;
+}
+.float {
+	float: left !important;
+	margin-right: 5px;
+	color: #fff !important;
+	background-color: #00BFFF !important;
+	border-radius: 5px !important;
+}
+.header {
+	margin: 5px 0 4px 0;
+	padding-left: 0px !important;
+	font-weight: 600;
+	font-size: 15px;
+}
+.top {
+	margin: 5px 0;
+}
